@@ -1,5 +1,6 @@
 *.cs linguist-detectable=true
+*.cs linguist-language=C#
 *.cpp linguist-detectable=false
 *.c linguist-detectable=false
-*.asp linguist-language=C#
+
 
